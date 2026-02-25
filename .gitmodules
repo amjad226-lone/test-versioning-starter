@@ -1,3 +1,0 @@
-[submodule "test-versioning-feature-submodule"]
-	path = test-versioning-feature-submodule
-	url = https://github.com/amjad226-lone/test-versioning-feature-submodule.git
